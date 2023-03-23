@@ -1,0 +1,12 @@
+2022/08/05 22:27:04 main.go:66: error opening document: parsing zip: zip: not a valid zip file
+2022/08/05 22:27:04 main.go:66: error opening document: parsing zip: zip: not a valid zip file
+2022/08/05 22:27:04 document.go:812: unsupported relationship type: http://schemas.openxmlformats.org/officeDocument/2006/relationships/custom-properties tgt: docProps/custom.xml
+2022/08/05 22:27:04 document.go:812: unsupported relationship type: http://schemas.openxmlformats.org/officeDocument/2006/relationships/custom-properties tgt: docProps/custom.xml
+2022/08/05 22:27:04 document.go:812: unsupported relationship type: http://schemas.openxmlformats.org/officeDocument/2006/relationships/custom-properties tgt: docProps/custom.xml
+2022/08/05 22:27:04 document.go:812: unsupported relationship type: http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml tgt: word/../customXml/item1.xml
+2022/08/05 22:27:04 document.go:812: unsupported relationship type: http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml tgt: word/../customXml/item1.xml
+2022/08/05 22:27:04 document.go:812: unsupported relationship type: http://schemas.openxmlformats.org/officeDocument/2006/relationships/glossaryDocument tgt: word/glossary/document.xml
+2022/08/05 22:27:04 WdAnchor.go:208: skipping unsupported element on WdAnchor {http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing sizeRelH}
+2022/08/05 22:27:04 WdAnchor.go:208: skipping unsupported element on WdAnchor {http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing sizeRelV}
+2022/08/05 22:27:04 CT_Picture.go:66: skipping unsupported element on CT_Picture {urn:schemas-microsoft-com:vml shapetype}
+2022/08/05 22:27:04 CT_Picture.go:66: skipping unsupported element on CT_Picture {urn:schemas-microsoft-com:vml shape}
